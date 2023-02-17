@@ -1,4 +1,4 @@
-# chatgpt-
+# chatgpt
 chatgpt使用指南、人工智能、AI、嵌入应用处理
 
 ChatGPT是什么？
@@ -45,6 +45,19 @@ ChatGPT 注册准备
 如果你想分享给他人使用，可以将「__Secure-next-auth.session-token」这个 Cookie 分享给对方，
 对方通过 Safari 浏览器（因为这个浏览器可以操作带有 httpOnly 属性的 Cookie）就可以将此 Cookie 设置到浏览器，之后就能使用了。
 注册过程中不会弄验证码或者其它问题可以私信我
+
 或者赞赏支持我，赞赏支持者，可以到我这里领取免费试用账号，体验Chat GPT
+
+
+扫一扫添加作者微信：
+
+![image](https://upload-images.jianshu.io/upload_images/2469080-9e5b72a12caf99f8.png)
+
+（避免伸手党，只限赞赏用户，谢谢，其他不回复）
+* 支付宝赞赏
+![image](https://upload-images.jianshu.io/upload_images/2469080-1cd54bd8fa66538b.png)
+
+* 微信赞赏
+![image](https://upload-images.jianshu.io/upload_images/2469080-b8742c3f87b3b3c3.png)
 
 
