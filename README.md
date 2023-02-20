@@ -48,6 +48,19 @@ ChatGPT 注册准备
 
 或者赞赏支持我，赞赏支持者，可以到我这里领取免费试用账号，体验Chat GPT
 
+ChatGPT登录网址：https://chat.openai.com/
+
+账号1：jack@gptocean.com
+密码1：UbVYrH2w1g
+账号2：rose@gptocean.com
+密码2：hNeBv2R9xZ
+账号3：tom@gptocean.com
+密码3：o6GtFkW2Xf
+账号4：daisy@gptocean.com
+密码4：OTm2J4khXa
+账号5：alice@gptocean.com
+密码5：fNhSuO1cX4
+
 
 扫一扫添加作者微信：
 
